@@ -30,12 +30,15 @@ font-size: 22px;
     text-align: left;
     font-size: 20px;
 }
-h4
-{
-   background-color: grey;
-   color:white;
-   line-height: 2;
-}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+  }
 canvas 
   {
       border:3px solid white;
